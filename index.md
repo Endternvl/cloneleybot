@@ -4,4 +4,4 @@
 ## Invite Now!
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+[button url="https://discord.com/oauth2/authorize?client_id=816522548812054549&scope=bot&permissions=2147483647"]
